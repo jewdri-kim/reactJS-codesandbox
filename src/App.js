@@ -36,7 +36,7 @@ class App extends Component {
 
   render() {
     if (this.state.error) {
-      return <div>에러가 났어요</div>;
+      return <div>에러가 났어요 ---수ㅠ정수정</div>;
     }
     return (
       <div>
